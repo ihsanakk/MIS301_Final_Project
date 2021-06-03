@@ -1,4 +1,4 @@
-# MYSOFTWARE OFFICAL WEBSITE
+# MYSOFTWARE OFFICIAL WEBSITE
 
 
 Frontend: vue
@@ -27,25 +27,13 @@ mvn spring-boot:run
 
 # **VUE**
 
-## FRONTEND setup
+## FRONTEND Setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## FRONTEND Compile&Run
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
